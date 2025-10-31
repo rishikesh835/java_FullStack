@@ -18,7 +18,7 @@ I'm passionate about full stack development and continuous learning. Connect wit
 - [GitHub](https://github.com/rishikesh835)
 - [Twitter](https://x.com/rishikesh835)
 
-Feel free to reach out for collaboration or questions!
+Feel free to reach out for collaboration or queskftions!
 
 ## Index
 
